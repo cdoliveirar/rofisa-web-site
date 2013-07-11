@@ -1,1 +1,0 @@
-Short web site using Bootstrap
